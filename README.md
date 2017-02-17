@@ -1,4 +1,4 @@
-# Redux Counter Example
+# Redux Counter and Miscellaneous Example, follows Container pattern
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
 
